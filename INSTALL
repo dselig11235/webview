@@ -1,2 +1,2 @@
-Run qmake to create Makefile and moc_*
+Run qmake main.pro (or just qmake by itself) to create Makefile
 then run make
