@@ -1,0 +1,2 @@
+Run qmake to create Makefile and moc_*
+then run make
